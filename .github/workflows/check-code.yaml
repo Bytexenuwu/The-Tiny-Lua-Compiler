@@ -16,7 +16,7 @@ jobs:
     - name: Set up Lua
       uses: ByteXenon/gh-actions-lua@v2
       with:
-        luaVersion: "5.4.0"
+        luaVersion: "5.1.5"
 
     - name: Run script
       run: |
